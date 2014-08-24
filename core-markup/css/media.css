@@ -1,0 +1,84 @@
+@media all and (max-width: 699px) and (min-width: 290px) {
+
+.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+	height: 1100px;
+}
+
+.right-column {
+    width: 0px;
+}
+
+.slides img {
+    height: auto;
+    width: 330px;
+}
+
+.intro img {
+	width: 200px;
+    margin-right: 65px;
+}
+
+.button-4 a {
+	   margin: 10px;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    width: 164px;
+    font-size: 12px;
+}
+
+.wrap {
+	width: 330px;
+}
+
+.intro {
+	margin-top: 5%;
+}
+
+.slides {
+	width: 330px;
+}
+
+.buttons {
+    margin-left: 0px;
+    top: 0px;
+}
+
+.left-column {
+	width: 85%;
+}
+
+.welcome {
+    border-right: 4px solid #0000FF;
+    margin-right: 10px;
+    padding-right: 25px;
+}
+
+.buttons {
+	margin-left: 45px;
+}
+
+.the-draw p {
+    font-size: 18px;
+    line-height: 36px;
+    margin-top: 10%;
+}
+
+.left-column p {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+}

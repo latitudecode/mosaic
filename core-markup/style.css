@@ -1,0 +1,318 @@
+* {
+	color: #fff;
+}
+
+body {
+	background-color: #222222;
+}
+
+p, ul, a {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: lighter;
+}
+
+a {
+	color: #0093d1;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0099d1;;
+}
+
+ul {
+	padding: 0px;
+	list-style-type: none;
+}
+
+ul li {
+	height: 25px;
+    padding: 25px 30px 25px 33px;
+	background-color: black;
+	display: inline;
+}
+
+ul li i {
+	color: white;
+}
+
+.nav ul {
+	display: inline;
+}
+
+img  {
+	height: 100%;
+}
+
+.stage {
+	width: 100%;
+	position: relative;
+	height: 100%;
+}
+
+.wrap {
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	top: 200px;
+}
+
+.clear {
+	clear: both;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+
+/* typography */
+
+h1 {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 24px;
+	font-family: 'Open sans';
+	letter-spacing: .2px;
+}
+
+h3 {
+	font-size: 36px;
+}
+
+h4 {
+	font-size: 48px;
+}
+
+h5 {
+	font-size: 14px;
+}
+
+h6 {
+	font-size: 16px;
+}
+
+
+/* overall */
+
+.hover-effect {
+	background-color: black;
+	margin: 0 auto;
+	position: relative;
+	opacity: 0.80;
+	display: none;
+	width: 100%;
+	height: 100%;
+}
+
+.white {
+	background-color: white !important;
+}
+
+.blue {
+	background-color: blue !important;	
+}
+
+a:hover .hover-effect {
+	display: block;
+}
+
+.hover-effect h2 {
+position: absolute;
+margin: 0 auto;
+width: 100%;
+text-align: center;
+top: 40%;
+}
+
+
+
+/* button treatment */
+
+.button {
+
+}
+
+.buttons {
+
+}
+
+.button a {
+
+}
+
+/* menu */
+
+.menu {
+	height: 100%;
+	position: fixed;
+	width: 50px;
+	background-color: rgba(1, 1, 1, .4);
+	float: left;
+	z-index: 99999999999;
+}
+
+.menu i {
+	position: relative;
+	top: 3%;
+	padding-left: 15px;
+}
+
+
+/* the grid-folio action */
+
+.headsup {
+	height: 500px;
+	position: absolute;
+	top:0px;
+	width: 100%;
+	background-color: red;
+	background-image: url('images/header.jpg');
+	opacity: .6;
+}
+
+.intro {
+	height: 600px;
+	width: 600px;
+	background-color: black;
+	position: relative;
+}
+
+.intro .hello {
+	position: absolute;
+	bottom: 20px;
+	left: 40px;
+	font-size: 22px;
+}
+
+.about-me {
+	height: 570px;
+	width: 310px;
+	background-color: #2b2b2b;
+	padding: 30px 44px 0;
+	position: relative;	
+}
+
+.about-me .gravatar {
+	background-image: url('images/profile.png');
+}
+
+.about-me .socialize ul li {
+	width: 20px;
+}
+
+.about-me .socialize {
+	position: absolute;
+	bottom: 10px;
+	left: 0px;
+}
+
+
+.gram-feed {
+	height: 320px;
+	width: 320px;
+	background-color: blue;
+	z-index: 2;
+	position: relative;
+	background-image: url('images/instagram.jpg');
+}
+
+.gram-feed i {
+	position: absolute;
+	z-index: 999999999;
+	bottom: 20px;
+	left: 20px;
+}
+
+.gram-feed .hover-effect {
+	width: 90%;
+	height: 90%;
+	top: 4%;
+}
+
+.my-project {
+	height: 320px;
+	width: 680px;
+	background-color: green;
+	position: relative;
+	background-image: url('images/lily-portfolio.jpg');
+}
+
+.my-project .hover-effect {
+	width: 95%;
+	height: 90%;
+	top: 5%;
+}
+
+.the-tumblr {
+	height: 800px;
+	width: 600px;
+	background-image: url('images/tumblr.jpg');
+	background-size: cover;
+}
+
+.the-tumblr .hover-effect {
+	width: 95%;
+	height: 95%;
+	top: 2%;
+}
+
+.twit-feed {
+	height: 370px;
+	width: 310px;
+	background-color: black;
+	padding: 30px 45px 0px 45px;
+	z-index: 2;
+	position: relative;	
+}
+
+.twit-feed i {
+	position: absolute;
+	z-index: 999999999;
+	bottom: 20px;
+	left: 20px;
+}
+
+.vid-feed {
+	height: 400px;
+	width: 400px;
+}
+
+.vid-feed video {
+    position: absolute;
+    right: 0;
+    z-index: -1;
+}
+
+.footer {
+	height: 95px;
+	width: 100%;
+	background-color: black;
+}
+
+.footer .halfy {
+	width: 20%;
+	height: 100%;
+}
+
+.footer .halfy p {
+	padding: 19px 18px 5px 25px;
+}
+
+
+/* intro/about-me area */
+
+.gravatar {
+	background-color: blue;
+	width: 130px;
+	height: 130px;
+	border-radius: 90px;
+}
+
+

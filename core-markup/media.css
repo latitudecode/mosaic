@@ -1,0 +1,1064 @@
+
+/* ================================================  MAX WIDTH 1280 ======================================= */
+
+
+@media only screen 
+and (max-width : 1280px) {
+
+
+
+	
+}
+
+
+
+/* ================================================  MAX WIDTH 1439 ======================================= */
+
+
+@media only screen 
+and (max-width : 1439px) {	
+
+
+
+
+
+
+}
+
+
+
+/* ================================================  MAX WIDTH 1240 ======================================= */
+
+
+@media only screen 
+and (max-width : 1240px) {
+
+
+
+
+
+}
+
+
+/* ================================================  MAX WIDTH 1099 ======================================= */
+
+
+@media only screen 
+and (max-width : 1099px) {	
+
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 740px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;;
+}	
+
+img {
+    height: auto;
+}
+
+	
+.intro fl {
+    float: none;
+}
+
+.intro fr {
+    float: none;
+}
+
+.main {
+  left: 27%;
+    margin: 0 auto;
+    position: relative;
+    width: 380px !important;;
+}
+
+.full .fr {
+    float: none !important;
+}
+
+.welcome {
+    display: none;
+}
+
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+
+/* ================================================  MAX WIDTH 1024 ======================================= */
+
+@media only screen 
+and (max-width : 1024px) {
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 720px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+img {
+    height: auto;
+}
+	
+	.left-column {
+    padding-left: 20px;
+    width: 26%;
+}
+
+.right-column {
+    width: 70%;
+}
+
+.logo {
+    margin: 0 auto;
+
+}
+
+.intro .fl {
+    float: none;
+}
+
+.intro .fr {
+    float: none;
+}
+
+.intro {
+    width: 85%;
+    margin: 0 auto;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+
+/* ================================================  MAX WIDTH 1023 ======================================= */
+
+@media only screen 
+and (max-width : 1023px) {
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 720px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+img {
+    height: auto;
+}
+
+
+.left-column {
+    padding-left: 20px;
+    width: 26%;
+}
+
+.right-column {
+    width: 70%;
+}
+
+.intro {
+
+    margin: 0 auto;
+}
+
+.wrap {
+    width: 1023px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+
+/* ================================================  MAX WIDTH 940 ======================================= */
+
+
+@media only screen 
+and (max-width : 940px) 
+{
+
+
+.left-column {
+    padding-left: 20px;
+    width: 26%;
+}
+
+.right-column {
+    width: 70%;
+}
+
+
+}
+
+
+/* ================================================  MAX WIDTH 939 ======================================= */
+
+@media only screen 
+and (max-width : 939px) {
+	
+	
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 720px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+img {
+    height: auto;
+}
+
+.left-column {
+    padding-left: 20px;
+    width: 26%;
+}
+
+.right-column {
+    width: 70%;
+}
+
+.wrap {
+    width: 939px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+
+}
+
+
+/* ================================================  MAX WIDTH 839 ======================================= */
+
+@media only screen 
+and (max-width : 839px) {
+	
+	
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 720px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+
+img {
+    height: 100%;
+}
+
+.left-column {
+    padding-left: 20px;
+    width: 22%;
+}
+
+.right-column {
+    width: 75%;
+}
+
+.features {
+    display: none;
+}
+
+h5 {
+    display: none;
+}
+
+.wrap {
+    width: 839px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+.main {
+    left: 25%;
+    margin: 0 auto;
+    position: relative;
+    width: 392px !important;
+}
+
+}
+
+
+/* ================================================  MAX WIDTH 739 ======================================= */
+
+@media only screen 
+and (max-width : 739px) {
+    
+    
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 545px;
+}
+
+
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+    font-size: 14px;
+    line-height: 28px;
+}   
+
+img {
+    height: auto;
+}
+
+img {
+    height: 100%;
+}
+
+.left-column {
+    padding-left: 20px;
+    width: 22%;
+}
+
+.right-column {
+    width: 75%;
+}
+
+.features {
+    display: none;
+}
+
+h5 {
+    display: none;
+}
+
+.wrap {
+    width: 739px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+/* ================================================  MAX WIDTH 640 ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 720px) 
+{	
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 1075px;
+}
+
+	.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+.left-column {
+    padding-left: 20px;
+    width: 65%;
+}
+
+img {
+    height: auto;
+}
+
+.wrap {
+    width: 640px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+
+}
+/* ================================================  MAX WIDTH 640 ======================================= */
+
+
+@media only screen 
+and (max-width : 640px) 
+{	
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 1100px;
+}
+
+	.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+.left-column {
+    padding-left: 20px;
+    width: 55%;
+}
+
+img {
+    height: auto;
+}
+
+.wrap {
+    width: 640px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 639 ======================================= */
+
+@media only screen 
+and (max-width : 639px) 
+{
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 940px;
+}
+
+	.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+.left-column {
+    padding-left: 20px;
+    width: 45%;
+}
+
+img {
+    height: 580px;
+}
+
+
+.wrap {
+    width: 639px;
+}
+
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 ======================================= */
+
+
+@media only screen 
+and (max-width : 480px) 
+{	
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 910px;
+}
+
+	.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+.left-column {
+    padding-left: 20px;
+    width: 35%;
+}
+
+img {
+    height: 490px;
+}
+
+
+
+.button-4 a {
+       margin: 10px;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    width: 164px;
+    font-size: 12px;
+}
+
+.wrap {
+    width: 480px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+
+.main {
+    left: 17%;
+    margin: 0 auto;
+    position: relative;
+    width: 215px !important;
+}
+
+}
+
+
+/* ================================================  MAX HEIGHT 480 ======================================= */
+
+
+@media only screen 
+and (max-height : 480px) 
+{
+
+.slide1, .slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+    height: 1100px;
+}
+
+	.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.right-column {
+    height: auto;
+    width: 60%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+.left-column p {
+	font-size: 14px;
+	line-height: 28px;
+}	
+
+.left-column {
+    padding-left: 20px;
+    width: 65%;
+}
+
+img {
+    height: 500px;
+}
+
+
+.button-4 a {
+       margin: 10px;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    width: 164px;
+    font-size: 12px;
+}
+
+.wrap {
+    width: 480px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+}
+.main {
+    left: 17%;
+    margin: 0 auto;
+    position: relative;
+    width: 215px !important;
+}
+
+}
+
+
+
+
+/* ================================================  MOBILES BELOW 399 ======================================= */
+
+
+@media only screen 
+and (max-width : 399px) 
+{	
+	
+
+		.fr {
+    float: none;
+}
+
+.fl {
+	float: none;
+}
+
+.slide2, .slide3, .slide4, .slide5, .slide6, .slide7, .slide8 {
+	height: 780px;
+}
+
+.slide1 {
+    height: 545px;
+}
+
+.right-column {
+    width: 0px;
+}
+
+.slides img {
+    height: auto;
+    width: 330px;
+}
+
+.intro img {
+	width: 200px;
+    margin-right: 65px;
+}
+
+
+.button-4 a {
+	   margin: 10px;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    width: 205px;
+    font-size: 12px;
+}
+
+.wrap {
+	width: 330px;
+}
+
+.intro {
+	margin-top: 5%;
+}
+
+.slides {
+	width: 330px;
+}
+
+.buttons {
+    margin-left: 0px;
+    top: 0px;
+}
+
+
+.welcome {
+    border-right: 4px solid #0000FF;
+    margin-right: 10px;
+    padding-right: 25px;
+}
+
+
+.the-draw p {
+    font-size: 18px;
+    line-height: 36px;
+    margin-top: 10%;
+}
+
+.left-column p {
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.left-column {
+    width: 80%;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+img {
+    height: 500px;
+}
+
+.sneak img {
+    height: auto;
+    position: absolute;
+    top: 0;
+    width: 85px;
+}
+
+.buttons {
+    left: 8%;
+}
+
+.the-draw p {
+    font-size: 14px;
+    line-height: 27px;
+    margin: 10px 20px auto;
+
+}
+
+.main {
+    left: 17%;
+    margin: 0 auto;
+    position: relative;
+    width: 215px !important;
+}
+
+}
+
+
+/* ================================================  MOBILES BELOW 320 ======================================= */
+
+
+@media only screen 
+and (max-width : 320px) 
+{	
+	
+	
+
+}
+
+
+
+
+/* ================================================  MOBILES BELOW 480 to 400 ======================================= */
+
+
+@media only screen 
+and (min-width : 400px) 
+and (max-width : 479px) 
+{	
+
+
+
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 to 640 ======================================= */
+
+
+@media only screen 
+and (min-width : 480px) 
+and (max-width : 639px) 
+{	
+
+
+
+
+
+
+				
+}
+
+
+
+/* ================================================  LARGE MOBILE DEVICES AND SMALL TABLETS BELOW 799  ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 799px) 
+{	
+	
+
+
+
+}
+/* ================================================  SLIGHTLY SMALLER RESOLUTIONS, BUT NOT QUITE IPHONE ======================================= */
+
+
+@media only screen 
+and (min-width : 800px) 
+and (max-width : 854px) 
+{	
+	
+
+}
+
+
+
+
+
+/* ================================================  LARGE PHONE SCREENS SMALLER RESOLUTIONS  ======================================= */
+
+
+@media only screen 
+and (min-width : 855px) 
+and (max-width : 960px) 
+{	
+
+	
+
+
+
+
+}
+
+
+
+/* ================================================  IPADS AT LANDSCAPE WIDTH 1024  ======================================= */
+
+
+@media only screen 
+and (min-width : 961px) 
+and (max-width : 1099px) 
+{	
+
+
+
+
+
+		
+}
+
+
+/* ================================================  FIRST STAGE LARGER THAN 1024PX UP TO LARGER BROWSERS  ======================================= */
+
+
+
+@media only screen 
+and (min-width : 1100px) 
+and (max-width : 1223px) 
+{		
+		
+	
+
+	
+	
+	
+	
+}
+
+
+
+/* #Narrow Screen, Below 1400px (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1300px) 
+{
+
+
+
+
+
+
+
+
+}
+	
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1399px) 
+{
+
+	
+	
+	
+	
+	
+	
+                
+}
+	
+	
+	
+
+
+@media only screen and (min-width: 1400px) and (max-width: 1450px) {
+		
+		
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1451px) {
+ 
+ 
+ 
+ 
+ 
+                
+
+
+
+} 
+
+@media all and (max-width: 2400px) and (min-width: 800px) {
+  
+}
+
+
